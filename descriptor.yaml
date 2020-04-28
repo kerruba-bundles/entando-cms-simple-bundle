@@ -1,0 +1,11 @@
+code: cms-simple-bundle
+description: This is a simple CMS bundle
+
+components:
+
+  contentTypes:
+    - contenttypes/my_content_type_descriptor.yaml
+
+  contentModels:
+    - contentmodels/my_content_model_descriptor.yaml
+    - contentmodels/another_content_model_descriptor.yaml
